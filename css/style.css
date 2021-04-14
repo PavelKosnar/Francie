@@ -1,0 +1,515 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin-top: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: 1px solid #DDD;
+}
+
+main::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+footer {
+    background-color: #444;
+    color: white;
+    text-align: center;
+    height: 100px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+footer a {
+    color: rgb(48, 124, 211);
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: rgb(21, 86, 207);
+    text-decoration: underline;
+}
+
+section {
+    width: 60%;
+    float: left;
+    height: 80%;
+}
+
+section p {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 22px;
+}
+
+section a {
+    text-decoration: none;
+    color: rgb(45, 172, 252);
+}
+
+.right {
+    width: 36%;
+    float: left;
+    height: 80%;
+    margin-left: 4%;
+}
+
+.sedeprvni {
+    margin: 3%;
+    margin-bottom: 0;
+    background: rgb(240, 240, 240);
+    height: 50px;
+    border-bottom: 1px solid #AAA;
+}
+
+.sedeposledni {
+    margin: 3%;
+    margin-top: 0;
+    background: rgb(240, 240, 240);
+    height: 50px;
+}
+
+.sede {
+    margin-left: 3%;
+    margin-right: 3%;
+    background: rgb(240, 240, 240);
+    height: 50px;
+    border-bottom: 1px solid #AAA;
+}
+
+.bile {
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 50px;
+    border-bottom: 1px solid #AAA;
+}
+
+.vlevo {
+    width: 45%;
+    float: left;
+}
+
+.nabozenstvi {
+    margin: 3%;
+    background-color: rgb(220, 220, 220);
+    height: 33vh;
+    border: 1px solid #BBB;
+    border-radius: 5px;
+}
+
+.nabozenstvivlevo {
+    width: 35%;
+    float: left;
+    height: 256px;
+}
+
+.vlevo p{
+    font-size: 110%;
+    margin: 5%;
+    font-weight: bold;
+}
+
+.vpravo {
+    width: 50%;
+    float: left;
+    margin-left: 3%;
+}
+
+.nabozenstvivpravo {
+    margin: 5%;
+    width: 50%;
+    float: left;
+    height: 28vh;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #AAA;
+}
+
+.nabozenstvivpravo p {
+    padding: 6%;
+    border-bottom: 1px solid #AAA;
+}
+
+.nadpisnabozenstvi {
+    font-size: 200%;
+}
+
+.statniutvar {
+    margin-top: 30px;
+}
+
+.polohafrancie {
+    margin-left: 15%;
+}
+
+.noborder {
+    border: none !important;
+}
+
+.vpravo p {
+    font-size: 15px;
+    margin: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.zahlavi {
+    padding-top: 1.5%;
+}
+
+.border-bottom {
+    border-bottom: 0.5px solid black;
+}
+
+.background {
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+}
+
+.navbar {
+    height: 12%;
+    display: flex;
+    align-items: center;
+}
+
+.znak {
+    margin-left: 35px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.navbar-links {
+    flex: 1;
+    text-align: right;
+    margin-right: 30px;
+}
+
+.navbar-links ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 60px ;
+}
+
+.navbar-links ul li a {
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-links ul li a:hover {
+    color: rgb(236, 238, 99);
+}
+
+.menu-icon {
+    width: 50px;
+    cursor: pointer;
+    margin-left: 2%;
+    margin-right: 30px;
+}
+
+.nadpis {
+    margin: 50px;
+    height: 30%;
+}
+
+.nadpis2 {
+    background-color: rgb(139, 151, 32);
+    height: 180px;
+}
+
+.nadpis2 h1 {
+    text-align: center;
+    color: white;
+    font-size: 150px;
+}
+
+.nadpis h1 {
+    color: white;
+    font-size: 150px;
+    text-align: center;
+}
+
+.nadpis p {
+    color: white;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.zalozka p {
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    margin-top: 5px;
+    color: black;
+    font-family: monospace;
+}
+
+.zalozky {
+    align-items: center;
+    margin-left: 0;
+}
+
+.zalozka {
+    width: 22%;
+    height: 20vh;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 20px 20px;
+    background-position: center;
+    background-size: cover;
+    transition: 0.4s;
+    border: 1px solid #555;
+}
+
+.zalozka:hover {
+    transform: translateY(-10px);
+    font-weight: 900;
+}
+
+.nadpis-h2 {
+    background: rgb(197, 197, 30);
+    margin: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    margin: 20px;
+    padding: 10px;
+}
+
+h3 {
+    font-size: 25px;
+    margin: 4%;
+    color: rgb(167, 167, 11);
+    font-weight: bold;
+    font-family: monospace;
+}
+
+h4 {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+@media (max-width: 1720px) {
+    .nadpis {
+        height: 20%;
+    }
+
+    .zalozky {
+        margin-left: 100px;
+    }
+
+    .zalozka {
+        width: 35%;
+        height: 22vh;
+        margin: 18px 50px;
+    }
+
+    .nadpisnabozenstvi {
+        font-size: 130%;
+    }
+
+    section p {
+        font-size: 90%;
+        line-height: 15px;
+    }
+}
+
+@media (max-width: 1500px) {
+    .polohafrancie {
+        margin-left: 10%;
+    }
+}
+
+@media (max-width: 1400px) {
+    .vlevo p {
+        margin: 3%;
+        font-size: 100%;
+    }
+
+    .vpravo p {
+        margin: 3%;
+        font-size: 80%;
+    }
+
+    .nabozenstvi {
+        height: 18vh;
+    }
+
+    .nadpisnabozenstvi {
+        font-size: 100%;
+    }
+
+    .nabozenstvivpravo {
+        margin: 3%;
+        height: 15vh;
+    }
+
+    .nabozenstvivpravo p {
+        font-size: 70%;
+        padding: 3%;
+    }
+
+    .nabozenstvi::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+
+    .polohafrancie {
+        width: 70%;
+    }
+}
+
+@media (max-width: 1325px) {
+    .navbar-links ul li {
+        margin-left: 40px;
+    }
+
+    .navbar-links ul li a {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .zalozky {
+        margin-left: 60px;
+    }
+
+    .zalozka p {
+        font-size: 12px;
+    }
+
+    section p {
+        font-size: 70%;
+    }
+    
+    h2 {
+        font-size: 150%;
+    }
+
+    h3 {
+        font-size: 130%;
+    }
+}
+
+@media (max-width: 882px) {
+    .nadpis {
+        height: 20%;
+    }
+
+    .zalozky {
+        margin-left: 10px;
+    }
+
+    .zalozka {
+        width: 40%;
+        height: 20vh;
+        margin: 15px;
+        margin-left: 35px;
+    }
+
+    .zalozka p {
+        font-size: 10px;
+    }
+
+    .navbar-links ul li {
+        margin-left: 20px;
+    }
+
+    .navbar-links ul li a {
+        font-size: 15px;
+    }
+
+    section p {
+        font-size: 50%;
+    }
+}
+
+@media (max-width: 663px) {
+    .nadpis h1 {
+        font-size: 85px;
+    }
+
+    .nadpis p {
+        font-size: 12px;
+    }
+
+    .nadpis {
+        height: 10%;
+    }
+
+    .zalozky {
+        margin-left: 0;
+    }
+
+    .zalozka {
+        width: 80%;
+        height: 12vh;
+        margin: 18px 9%;
+    }
+
+    .zalozka h4 {
+        margin-top: 10px;
+        font-size: 40px;
+    }
+
+    .zalozka p {
+        display: none;
+    }
+
+    .navbar-links ul li {
+        margin-top: 5px;
+    }
+
+    .navbar-links ul li a {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 375px) {
+    .nadpis h1 {
+        font-size: 70px;
+    }
+
+    .nadpis p {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 322px) {
+    .nadpis h1 {
+        font-size: 55px;
+    }
+
+    .nadpis p {
+        font-size: 8px;
+    }
+
+    .zalozka h4 {
+        margin-top: 15px;
+        font-size: 35px;
+    }
+}
+
+.zatimnic {
+    text-align: center;
+    font-size: 150px;
+}
