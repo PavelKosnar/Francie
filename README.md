@@ -1,3 +1,3 @@
-Prvni verze mojí stránky o Francii
+Hotová responsibilita stránky
 
-Ještě chybí udělat stránku responsivní při velikosti menší než 768px, ale to se pokusím co nejdřive napravit
+Ještě chybí vytvořit stránku historie
