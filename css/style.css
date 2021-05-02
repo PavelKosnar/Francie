@@ -240,7 +240,7 @@ section a {
 
 .nadpis p {
     color: white;
-    font-size: 15px;
+    font-size: 20px;
     line-height: 25px;
     text-align: center;
 }
@@ -306,6 +306,80 @@ h4 {
     font-size: 40px;
 }
 
+
+
+@media (min-width: 1930px) {
+    .nadpis h1 {
+        font-size: 200px;
+    }
+
+    .nadpis p {
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 1930px) {
+    .zalozka p {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 2200px) {
+    .zalozka p {
+        font-size: 20px;
+    }
+
+    section p {
+        font-size: 19px;
+        line-height: 23px;
+    }
+}
+
+@media (min-width: 2350px) {
+    .nabozenstvi {
+        height: 30vh;
+    }
+
+    .nabozenstvivpravo {
+        height: 30vh;
+    }
+}
+
+@media (min-width: 2400px) {
+    .zalozka p {
+        padding-top: 10px;
+    }
+}
+
+@media (min-height: 1100px) {
+    .zalozka p {
+        font-size: 23px;
+        line-height: 23px;
+    }
+
+    .nabozenstvi {
+        height: 350px;
+    }
+
+    .nabozenstvivpravo {
+        height: 300px;
+    }
+}
+
+@media (min-height: 1300px) {
+    .zalozka p {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .nabozenstvi {
+        height: 390px;
+    }
+
+    .nabozenstvivpravo {
+        height: 330px;
+    }
+}
 
 @media (max-width: 1720px) {
     .nadpis {
@@ -411,8 +485,21 @@ h4 {
 }
 
 @media (max-width: 882px) {
+    main {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
     .nadpis {
         height: 20%;
+    }
+
+    .nadpis2 {
+        height: 150px;
+    }
+
+    .nadpis2 h1 {
+        font-size: 120px;
     }
 
     .zalozky {
@@ -438,8 +525,51 @@ h4 {
         font-size: 15px;
     }
 
+    section {
+        width: 100%;
+    }
+
+    .right {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    section h2 {
+        font-size: 30px;
+    }
+
+    section h3 {
+        font-size: 20px;
+    }
+
     section p {
-        font-size: 50%;
+        font-size: 65%;
+    }
+
+    .polohafrancie {
+        width: 40%;
+        margin-left: 30%;
+    }
+
+    .right h3 {
+        text-align: center;
+        font-size: 35px;
+    }
+
+    .nabozenstvi {
+        height: 220px;
+    }
+
+    .nabozenstvivlevo {
+        height: 150px;
+    }
+
+    .nabozenstvivpravo {
+        height: 180px;
+    }
+
+    .nadpisnabozenstvi {
+        font-size: 25px !important;
     }
 }
 
@@ -484,6 +614,42 @@ h4 {
     }
 }
 
+@media (max-width: 425px) {
+    .navbar {
+        height: 100px;
+    }
+
+    .navbar-links {
+        margin-left: 40%;
+        margin-right: 5%;
+    }
+
+    .navbar-links ul li a {
+        font-size: 12px;
+    }
+
+    .nadpis2 {
+        height: 110px;
+    }
+
+    .nadpis2 h1 {
+        font-size: 90px;
+    }
+
+    .nabozenstvi {
+        height: 156px;
+    }
+
+    .nabozenstvivpravo {
+        margin-left: 25px;
+        height: 136px;
+    }
+
+    .nadpisnabozenstvi {
+        font-size: 18px !important;
+    }
+}
+
 @media (max-width: 375px) {
     .nadpis h1 {
         font-size: 70px;
@@ -495,6 +661,10 @@ h4 {
 }
 
 @media (max-width: 322px) {
+    .navbar-links {
+        margin-left: 35%;
+    }
+
     .nadpis h1 {
         font-size: 55px;
     }
@@ -503,9 +673,49 @@ h4 {
         font-size: 8px;
     }
 
+    section h2 {
+        font-size: 20px;
+    }
+
+    section h3 {
+        font-size: 15px;
+    }
+
+    section p {
+        font-size: 8px;
+    }
+
     .zalozka h4 {
         margin-top: 15px;
         font-size: 35px;
+    }
+
+    .right h3 {
+        font-size: 20px;
+    }
+
+    .nabozenstvi {
+        height: 140px;
+    }
+
+    .nabozenstvivpravo {
+        height: 120px;
+    }
+
+    .nadpisnabozenstvi {
+        font-size: 15px !important;
+    }
+
+    .vlevo p {
+        font-size: 80%;
+    }
+
+    .vpravo p {
+        font-size: 60%;
+    }
+
+    .sede, .sedeprvni, .sedeposledni, .bile {
+        height: 30px;
     }
 }
 
