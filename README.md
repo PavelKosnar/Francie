@@ -1,3 +1,3 @@
-Hotová responsibilita stránky
+Vytvořená stránka historie
 
-Ještě chybí vytvořit stránku historie
+Zatím pouze historické události, zbytek bude co nevidět

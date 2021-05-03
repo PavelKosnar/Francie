@@ -35,6 +35,69 @@ footer a:hover {
     text-decoration: underline;
 }
 
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.col-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.tabulka {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1rem;
+    color:#212529;
+}
+
+.udalosti {
+    margin: 20px;
+}
+
+.udalosti ul {
+    display: flex;
+    width: 100%;
+    border-top: 1px solid #AAA;
+}
+
+.udalosti ul li {
+    list-style: none;
+}
+
+.udalosti ul li a {
+    text-decoration: none;
+    color: rgb(167, 167, 11);
+}
+
+.udalost-jmeno {
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.udalost-rok {
+    width: 50px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.udalost-podrobnosti {
+    padding: 10px;
+    font-size: 18px;
+}
+
+.udalosti-pozadi {
+    background-color: #EEE;
+}
+
 section {
     width: 60%;
     float: left;
@@ -285,6 +348,10 @@ section a {
     border-radius: 5px;
 }
 
+.pointer {
+    cursor: pointer;
+}
+
 h2 {
     text-align: center;
     font-size: 40px;
@@ -410,6 +477,14 @@ h4 {
     .polohafrancie {
         margin-left: 10%;
     }
+
+    .nabozenstvi {
+        height: 300px;
+    }
+
+    .nabozenstvivpravo {
+        height: 260px;
+    }
 }
 
 @media (max-width: 1400px) {
@@ -481,6 +556,14 @@ h4 {
 
     h3 {
         font-size: 130%;
+    }
+
+    .nabozenstvi {
+        height: 160px;
+    }
+
+    .nabozenstvivpravo {
+        height: 130px;
     }
 }
 
