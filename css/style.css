@@ -48,13 +48,6 @@ footer a:hover {
     max-width: 100%;
 }
 
-.tabulka {
-    border-collapse: collapse;
-    width: 100%;
-    margin-bottom: 1rem;
-    color:#212529;
-}
-
 .udalosti {
     margin: 20px;
 }
@@ -84,8 +77,9 @@ footer a:hover {
 .udalost-rok {
     width: 50px;
     padding: 10px;
+    text-align: center;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 22px;
     font-family: monospace;
 }
 
@@ -96,6 +90,158 @@ footer a:hover {
 
 .udalosti-pozadi {
     background-color: #EEE;
+}
+
+.udalost-vpravo {
+    margin-left: 50px;
+}
+
+.osobnosti {
+    margin: 20px;
+    margin-top: 0;
+}
+
+table { 
+    width: 100%;
+    border: 1px solid #555;
+    border-collapse: separate;
+    border-left: 0;
+    border-radius: 5px;
+    border-spacing: 0px;
+}
+
+th {
+    font-weight: normal;
+}
+
+th, td {
+    padding: 5px 4px 6px 4px; 
+    text-align: center;
+    vertical-align: top;
+    border-left: 1px solid #555;   
+    background-color: #CCC; 
+    font-family: monospace;
+    font-size: 20px;
+    cursor: default;
+}
+
+th:hover, td:hover {
+    background-color: #AAA;
+}
+
+td {
+    border-top: 1px solid #555;    
+}
+tr:first-child th:first-child, tr:first-child td:first-child {
+    border-radius: 5px 0 0 0;
+}
+tr:last-child th:first-child, tr:last-child td:first-child {
+    border-radius: 0 0 0 5px;
+}
+
+.leftside {
+    width: 30%;
+    float: left;
+    background: white;
+    border-radius: 8px;
+    border-spacing: 0px;
+    border: 1px solid #555;
+    background-color: #AAA;
+    border-collapse: separate;
+}
+
+.leftside li {
+    cursor: default;
+    text-align: center;
+    list-style: none;
+    padding: 10px;
+    border-top: 1px solid #555;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.leftside li:hover {
+    background-color: #888;
+}
+
+.leftside li:first-child {
+    border-radius: 8px 0 0 0;
+    border-top: 0;
+}
+
+.leftside li:hover:first-child {
+    border-radius: 8px 8px 0 0;
+}
+
+.leftside li:hover:last-child {
+    border-radius: 0 0 8px 8px;
+}
+
+.rightside {
+    width: 65%;
+    float: left;
+    margin-left: 4%;
+    border: 1px solid #555;
+    border-radius: 8px;
+    margin-bottom: 25px;
+}
+
+.rightside li {
+    list-style: none;
+}
+
+.osobnosti-data {
+    background-color: #DDD;
+    border-radius: 8px 8px 0 0;
+    border-bottom: 1px solid #555;
+    padding: 10px;
+    padding-left: 30px;
+    font-weight: bold;
+}
+
+.osobnosti-jmeno {
+    text-align: center;
+    font-size: 35px;
+    padding: 10px 10px 0 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.osobnosti-podrobnosti {
+    padding: 30px;
+    padding-top: 10px;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.osobnosti-url {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 30px;
+}
+
+.osobnosti-url a {
+    color: rgb(23, 143, 212);
+}
+
+.osobnosti-obrazky {
+    width: 100%;
+    align-items: center;
+    margin: 10px;
+}
+
+.img-fluid {
+    max-width: 30%;
+    height: auto;
+    margin-left: 2%;
+    max-height: 350px;
+}
+
+.aktivni {
+    background-color: #666 !important;
+}
+
+.leftside .aktivni:first-child {
+    border-radius: 8px 8px 0 0 !important;
 }
 
 section {
@@ -485,6 +631,10 @@ h4 {
     .nabozenstvivpravo {
         height: 260px;
     }
+
+    .osobnosti-podrobnosti {
+        line-height: 20px;
+    }
 }
 
 @media (max-width: 1400px) {
@@ -564,6 +714,16 @@ h4 {
 
     .nabozenstvivpravo {
         height: 130px;
+    }
+
+    .leftside {
+        width: 100%;
+    }
+
+    .rightside {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 30px;
     }
 }
 
@@ -731,6 +891,27 @@ h4 {
     .nadpisnabozenstvi {
         font-size: 18px !important;
     }
+    
+    .udalost-jmeno, .osobnosti-podrobnosti, th, td {
+        font-size: 15px;
+    }
+
+    .udalost-jmeno {
+        padding: 0;
+        padding-top: 10px;
+    }
+
+    .udalost-vpravo {
+        margin-left: 0;
+    }
+
+    .udalost-rok {
+        font-size: 15px;
+    }
+
+    .osobnosti-url{
+        font-size: 12px;
+    }
 }
 
 @media (max-width: 375px) {
@@ -740,6 +921,15 @@ h4 {
 
     .nadpis p {
         font-size: 10px;
+    }
+
+    .osobnosti-url {
+        font-size: 1px;
+        visibility: hidden;
+    }
+
+    th, td, .udalost-jmeno {
+        font-size: 13px;
     }
 }
 
@@ -799,6 +989,16 @@ h4 {
 
     .sede, .sedeprvni, .sedeposledni, .bile {
         height: 30px;
+    }
+
+    .udalost-rok {
+        padding-left: 0;
+        padding-right: 0;
+        font-size: 12px;
+    }
+
+    td, th {
+        font-size: 11px;
     }
 }
 
