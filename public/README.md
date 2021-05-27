@@ -1,2 +1,2 @@
-Odstranění constant, přidání JSON souborů
-Stránka už běží na serveru
+Přídány JSON soubory, odstraněny constanty
+Stránka běží na serveru

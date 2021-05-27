@@ -1,1 +1,0 @@
-Druhá verze stránky o historii Francie
