@@ -1,0 +1,51 @@
+[
+    {
+        "jmeno":"Mont-Saint-Michel",
+        "id":"montSaintMichel",
+        "text":"Le Mont-Saint-Michel (výslovnost: mon sen mišel; IPA: mɔ̃ sɛ̃ mi.ʃɛl), česky Hora sv. Michaela, je žulový 80 metrů vysoký přílivový ostrov (s pevninou byl od r. 1879 spojen náspem, který byl následně zrušen, protože docházelo k vysychání zátoky; nyní spojuje ostrov s pevninou most) v někdejším regionu Dolní Normandie (Basse-Normandie) v severozápadní Francii ve stejnojmenném zálivu u normandského pobřeží (département Manche). Rozdíl výšky mořské hladiny při přílivu a odlivu je cca 15 m (nejvíce v Evropě), takže buď je „hora“ obklopena tekutými písky, nebo „plave v moři“. Odlivem se obnažuje mořské dno do vzdálenosti 10–15 km od pobřeží. Nachází se zde četné historické památky (klášterní kostel z 11.–16. stol., gotické klášterní budovy, opevnění z 13.–15. stol.). Ostrov, záliv i klášter na území o rozloze 6,560 ha jsou od roku 1979 zapsány na Seznamu světového dědictví UNESCO.",
+        "obrazek":"montsaintmichel.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Mont-Saint-Michel"
+    },
+    {
+        "jmeno":"Notre-dame De Reins",
+        "id":"notreDame",
+        "text":"Remeš (francouzsky Reims [rens], latinsky Durocortorum) je historické město v severovýchodní Francii, asi 150 km severovýchodně od Paříže. Leží v podprefektuře Remeš, v départmentu Marne, v regionu Grand Est. Žije zde přibližně 182 tisíc[1] obyvatel. Město je sídlem arcibiskupa a od roku 1969 také univerzity. Je výrobním centrem šampaňského, textilu, potravin a výstroje pro kosmické lety. Dějiny města sahají do doby Římské říše. Remeš leží v centru oblasti Champagne, která zabírá východní, plochou část Pařížské pánve. Město se nachází v rovině, na pravém břehu řeky Vesle, přítoku Aisne a na kanálu, který Aisne spojuje s řekou Marnou. Na jihu a na západě se zvedají hory Montagne de Reims (Remešské pohoří). V okolí se nacházejí vinice, které rodí hrozny pro výrobu šampaňského.",
+        "obrazek":"notredame.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Reme%C5%A1"
+    },
+    {
+        "jmeno":"Mont Blanc",
+        "id":"montBlanc",
+        "text":"Mont Blanc (italsky Monte Bianco, v překladu bílá hora) je nejvyšší hora Alp a Evropy, vypínající se v Montblanském masivu na francouzsko-italském pomezí do výšky 4809 m n. m. Mont Blanc je tradičně považován za nejvyšší vrchol Evropy, avšak z důvodu nejednotné metodiky pro přesné určení evropsko-asijské hranice bývá tento titul připisován i kavkazské hoře Elbrus (5642 m n. m.). O tom, zda vrchol hory leží na hranicích Francie a Itálie, či pouze na území Francie, panují dosud spory. Mapa francouzského Institut Géographique National de France nicméně zobrazuje vrchol Mt. Blancu zcela na území Francie. Proti tomu se ostře brání italská strana s tím, že hranice procházející přímo vrcholem Mt. Blancu byla výslovně stanovena stále platnou dvojstrannou smlouvou z roku 1860 (jíž bylo postoupeno Savojsko Francii a Mt. Blanc se stal horou hraniční) a potvrzena i Pařížskou mírovou smlouvou z r. 1947 (jíž byly částečně upraveny hranice mezi oběma zeměmi). To ovšem popírá francouzská strana a výzva italských úřadů o definitivní vyřešení hraničního sporu se setkala z francouzské strany s mlčením.",
+        "obrazek":"montblanc.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Mont_Blanc"
+    },
+    {
+        "jmeno":"Lascaux",
+        "id":"lascaux",
+        "text":"Lascaux (výslovnost: [lasko]) je jeskynní komplex v jihozápadní Francii proslavený díky jeskynním malbám. Jeskyně se nacházejí poblíž vesnice Montignac v départmentu Dordogne. Na stěnách jeskynních prostor se nacházejí malby z doby mladšího paleolitu (kultura magdalénien) datované mezi roky 15 000 až 13 000 př. n. l., především realistická vyobrazení zvířat. Jeskyně byla náhodně objevena 12. září roku 1940 čtyřmi dětmi (Marcel Ravidat, Jacques Marsal, Georges Agnel a Simon Coencas, doprovázených Marcelovým psem Robotem; ten zapadl do skalní pukliny a při jeho vyprošťování chlapci objevili výzdobu jeskyně). 21. září zde zahájil archeologický výzkum významný francouzský archeolog Henri Breuil a ještě v tomtéž zveřejnil první vědecký popis lokality, kterou přiřadil ke kulturnímu okruhu périgordienu.",
+        "obrazek":"lascaux.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Lascaux"
+    },
+    {
+        "jmeno":"Rocamadour",
+        "id":"rocamadour",
+        "text":"Rocamadour (rokamadúr), toto středověké sídlo je doslova přilepené na strmém svahu nad řekou Alzou. Věže a bílé kamenné domy se tisknou ke skále pod hradem ze 14. století. Od 12. století, kdy zde byly objeveny neporušené ostatky sv. Amadoura, se místo těší obrovskému zájmu věřících poutníků, nad nimiž v posledních desetiletích stále více převažují turisté. Cílem zbožných příchozích není jen hrob sv. Amadoura, ale především zdejší slavná Černá Madona (Vierge noire) z 12. století. Ke kapli Chapelle Notre-Dame, kde se soška Madony ukrývá, vystoupáte po 223 schodech známých jako Via Sancta. K těm dojdete jedinou ulicí starého města Rue de la Couronnerie. Kající se poutníci schody zdolávají po kolenou.",
+        "obrazek":"rocamadour.jpg",
+        "odkaz":"https://www.adventura.cz/zeme/francie/gaskonsko-perigord-dordogne/rocamadour/"
+    },
+    {
+        "jmeno":"Lurdy",
+        "id":"lourdes",
+        "text":"Lurdy (francouzsky Lourdes) je jihofrancouzské město ležící v podhůří Pyrenejí v departementu Hautes-Pyrénées. V roce 1858 zde došlo k mariánskému zjevení mladé Bernadettě Soubirousové, a brzy poté se Lurdy staly jedním z nejdůležitějších římskokatolických poutních míst světa. Později exhumované a v městečku Nevers vystavené tělo Bernadetty Soubirousové zůstalo dodnes neporušeno. V roce 1989 bylo uznáno zázračné uzdravení Delíziy Cirolli. V deseti letech jí lékaři objevili osteosarkom – zhoubnou rakovinu kostí. K divu nedošlo přímo v Lurdech: až dva měsíce po jejich návštěvě se dívka jedno ráno probudila a cítila se zdravá. Kontrolní vyšetření ukázala, že po sarkomu není ani památky.",
+        "obrazek":"lourdes.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Lurdy"
+    },
+    {
+        "jmeno":"Camargue",
+        "id":"camargue",
+        "text":"Parc Naturel régional de Camargue [kaˈmaʁɡ]IPA je přírodní park v oblasti Provence na jižním pobřeží Francie (departementy Bouches-du-Rhône a Gard). Proslulá oblast mokřadů o rozloze přes 1000 km² v deltě Rhôny při pobřeží Středozemního moře hostí až 400 druhů zvířat včetně plameňáků, turů a camargských koní. Je jednou z nejdůležitějších oblastí svého druhu v Evropě. Oblast je chráněná od roku 1970, v roce 1977 pak získala statut biosférické rezervace. V roce 1986 byla ramsarskou úmluvou označena za mokřad mezinárodního významu.",
+        "obrazek":"camargue.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Camargue"
+    }
+]

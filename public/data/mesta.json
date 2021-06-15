@@ -1,0 +1,93 @@
+[
+    {
+        "jmeno":"Lyon",
+        "id":"lyon",
+        "text":"Lyon je historické město ve středovýchodní Francii, hlavní město regionu Auvergne-Rhône-Alpes a hlavní město metropole Lyonu. Dohromady se svými příměstskými částmi a satelitními městečky tvoří po Paříži druhou největší aglomerací ve Francii s 1 757 180 obyvateli a je přibližně 20. až 25. v Evropě. Leží na soutoku řek Rhôny a Saôny, které je dělí na tři části, spojené 22 mosty. Město je významné průmyslové, obchodní a finanční centrum s mnoha vysokými školami, vědeckými ústavy, je kulturním a náboženským střediskem a je proslulé svou zvláštní kuchyní. Městem prochází nejdůležitější francouzská železniční trať Paříž – Lyon – Marseille, setkává se zde několik dálnic a východně od města je mezinárodní letiště. V Lyonu sídlí mezinárodní centrála Interpolu, televize Euronews a Mezinárodní institut pro výzkum rakoviny (IARC). Historické centrum je součástí Světového dědictví UNESCO.",
+        "obrazek":"lyon.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Lyon"
+    },
+    {
+        "jmeno":"Paris",
+        "id":"paris",
+        "text":"Paříž (francouzsky Paris), hlavní a zároveň největší město Francie, je správním centrem regionu Île-de-France, zahrnujícího Paříž a její předměstí, přičemž sama tvoří správní obvod se zvláštním statutem Ville de Paris („město Paříž“). Představuje přirozené centrum Pařížské aglomerace a díky 552,7 miliardám € HDP (2008) hospodářsky nejaktivnější oblast ve Francii. V Paříži sídlí vedení téměř poloviny všech francouzských společností stejně jako kanceláře hlavních mezinárodních firem a ředitelství mnoha mezinárodních organizací, jako jsou UNESCO, OECD nebo ICC. Paříž je proto významným světovým kulturním, obchodním i politickým centrem. Počet obyvatel v roce 2015 činil 2 229 621, v celé aglomeraci pak 12 142 802 (údaj z roku 2016). Město se stalo nositelem Řádu čestné legie, Válečného kříže 1914–1918 a Řádu osvobození.",
+        "obrazek":"paris.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Pa%C5%99%C3%AD%C5%BE"
+    },
+    {
+        "jmeno":"Marseille",
+        "id":"marseille",
+        "text":"Marseille (výslovnost [marsej], francouzská [maʁ.sɛj]IPA), hlavní město Provence, je po Paříži druhé největší město Francie. Leží v jihovýchodní části země, na pobřeží Středozemního moře, ve Lvím zálivu. V roce 2012 mělo Marseille 852 516 obyvatel (v roce 1999 jako aglomerace 1 350 000, resp. 1 516 000 obyvatel). Jde o nejvýznamnější francouzský obchodní přístav. Nachází se zde sídlo marseilleského arcibiskupství. Dnes je městem téměř všech národů žijících okolo Středozemního moře včetně mnoha Arabů.",
+        "obrazek":"marseille.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Marseille"
+    },
+    {
+        "jmeno":"Toulouse",
+        "id":"toulouse",
+        "text":"Toulouse (okcitánsky Tolosa) je město v jihozápadní Francii na řece Garonně, 580 km jižně od Paříže. Aglomerace Toulouse s 1 117 000 obyvateli tvoří jednu z nejrychleji rostoucích aglomerací v Evropě a čtvrtou největší ve Francii. Toulouse je jedno z hlavních evropských center leteckého a kosmického průmyslu. Nachází se zde ústředí společnosti Airbus, navigačního systému Galileo, satelitního systému SPOT, nebo vesmírné centrum pod záštitou CNES (francouzsky Centre National d'Études Spatiales, Národní středisko pro kosmický výzkum), jež je největším evropským kosmickým centrem. Místní univerzita patří mezi nejstarší v Evropě (založena r. 1229) a s 97 000 studenty jde o třetí největší univerzitu ve Francii po Paříži a Lyonu.",
+        "obrazek":"toulouse.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Toulouse"
+    },
+    {
+        "jmeno":"Nantes",
+        "id":"nantes",
+        "text":"Nantes je město v západní Francii ležící na řece Loiře, asi 50 km od pobřeží Atlantského oceánu. Jde o hlavní město regionu Pays de la Loire. V roce 2017 zde žilo přes 309 000 obyvatel a bylo tak šestým největším francouzským městem. V roce 1999 žilo celé metropolitní oblasti 711 000 obyvatel. Ve městě se nachází mezinárodní letiště, které je se zbytkem města spojeno tramvajovými a autobusovými linkami.",
+        "obrazek":"nantes.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Nantes"
+    },
+    {
+        "jmeno":"Štrasburk",
+        "id":"strasbourg",
+        "text":"Štrasburk (francouzsky Strasbourg, německy Straßburg, alsasky Strossburi) je hlavní město regionu Grand Est ve Francii a historická metropole Alsaska na levém břehu Rýna s 237 100 obyvateli. V minulosti patřil střídavě k Německu a k Francii, což ovlivnilo i jeho vzhled. Nejznámější stavbou je katedrála Notre-Dame de Strasbourg z 12. – 15. století, postavená z červeného pískovce. Některé městské domy ze 17. století mají vnější fasády hrázděné. Ve Štrasburku sídlí Rada Evropy, Evropský parlament a Evropský soud pro lidská práva. Od roku 1988 je historické centrum Štrasburku s názvem „Grande Île“ zapsáno na Seznamu světového dědictví UNESCO. V roce 2017 byla pod ochranu UNESCO zařazena i městská část „Neustadt“ vzniklá během německé správy města (1871–1918).",
+        "obrazek":"strasbourg.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/%C5%A0trasburk"
+    },
+    {
+        "jmeno":"Bordeaux",
+        "id":"bordeaux",
+        "text":"Bordeaux (vysl. [bordó] okcit. Bordèu vysl. [burdeu], latinsky Burdigala) je přístavní město na jihozápadě Francie, při ústí řeky Garonny do Atlantského oceánu. Živé obchodní a univerzitní město s bohatou historií je hlavním městem departementu Gironde a regionu Nová Akvitánie. Oblast Bordeaux je jednou z nejznámějších vinařských oblastí na světě s objemem asi 14,5 miliardy EUR. V oblasti je ale i významný průmysl, zejména letecký, technologický a informatický. Žije zde přibližně 257 tisíc obyvatel. Historická část města se starým přístavem byla v červnu 2007 zařazena na seznam světového dědictví UNESCO.",
+        "obrazek":"bordeaux.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Bordeaux"
+    },
+    {
+        "jmeno":"Lille",
+        "id":"lille",
+        "text":"Lille (nizozemsky Rijsel) je město v severní Francii na řece Deûle. Je hlavním městem regionu Hauts-de-France a také préfecture (hlavní město) departementu Nord. Ve městě rovněž sídlí arcibiskupství Lille, hlava Církevní provincie Lille. Leží poblíž hranic s Belgií. V únoru 2000 se k městu Lille připojilo město Lomme. Populace vnitřního města čítá 225 597 obyvatel. Na celém území města žije odhadem 1 260 000 obyvatel, čímž se řadí mezi nejvíce osídlené oblasti v Evropě; je čtvrtým největším městem země. Ve městě se nacházejí tři univerzity.",
+        "obrazek":"lille.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Lille"
+    },
+    {
+        "jmeno":"Rennes",
+        "id":"rennes",
+        "text":"Rennes (bretonsky Roazhon) je město v severozápadní Francii, nejdůležitější město v Bretani a sídlo prefektury departementu Ille-et-Vilaine. Rennes bylo dříve hlavní město Bretaňského knížectví. Rozkládá se na pahorku na soutoku řek Ille a Vilaine. Rennes je desátá největší francouzská městská oblast s 700 000 obyvateli. Město má více než 64 000 studentů.",
+        "obrazek":"rennes.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Rennes"
+    },
+    {
+        "jmeno":"Le Havre",
+        "id":"leHavre",
+        "text":"Le Havre je francouzské přístavní město v departementu Seine-Maritime v Normandii. Žije zde okolo 170 000 obyvatel. Město se stalo (částečným) dějištěm řady literárních děl, mezi něž patří skandální novela Manon Lescaut abbého Prévosta (1731) nebo Maupassantův román Petr a Jan (1887). V Zolově románu Lidská bestie (1890), odehrávajícím se na železnici z Paříže přes Rouen do Le Havru, je město bydlištěm hlavních postav manželů Roubaudových. Děj jednoho ze svých detektivních příběhů sem umístil Georges Simenon.",
+        "obrazek":"lehavre.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Le_Havre"
+    },
+    {
+        "jmeno":"Dijon",
+        "id":"dijon",
+        "text":"Dijon [dyžon] je historické město na východě Francie na řece Ouche, hlavní město departmentu Côte-d'Or a regionu Burgundsko-Franche-Comté, ve středověku sídlo mocných burgundských vévodů. Má 151 000 obyvatel, je to důležité středisko obchodu a průmyslu i dopravní uzel. Je sídlem arcibiskupství, Burgundské univerzity, ENS Dijon a dalších škol. Nedaleko města pramení řeka Seina. Je střediskem burgundské vinařské oblasti a obchodu s vínem, nejznámějším dijonským produktem je „dijonská hořčice“. Každým rokem na začátku září probíhá v Dijonu vinobraní, kterého se účastní různé folklorní soubory z celé Evropy včetně zastoupení z Moravy. Každé tři roky pořádá Dijon mezinárodní výstavu květin Florissimo. Na severozápadě města se nachází závodní dráha Dijon-Prenois, která je místem mnoha motoristických událostí. V minulosti se zde jezdila i Grand Prix Francie vozů Formule 1.",
+        "obrazek":"dijon.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Dijon"
+    },
+    {
+        "jmeno":"Tours",
+        "id":"tours",
+        "text":"Tours [túr] je historické město v západní Francii, hlavní město departementu Indre-et-Loire. Leží asi 120 km jihozápadně od Orléansu a asi 230 km od Paříže, mezi řekami Loira a Cher, která se západně od města do Loiry vlévá. Město má přibližně 136 tisíc[1] obyvatel, leží na dálnici A10 a na trati TGV Paříž – Orléans – Bordeaux. Je významným kulturním střediskem, sídlem arcibiskupství, univerzity a řady vysokých škol a jeho historické jádro je na seznamu Světového dědictví UNESCO. Roku 732 se zde odehrála bitva u Tours, v níž franské vojsko pod vedením Karla Martela zastavilo invazi Maurů do Evropy. Město je také známo cyklistickým závodem Paříž-Tours.",
+        "obrazek":"tours.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Tours"
+    },
+    {
+        "jmeno":"Bastia",
+        "id":"bastia",
+        "text":"Bastia je město na Korsice v departementu Haute-Corse a regionu Korsika. Má 37 000 obyvatel. V Bastii je průměrně 340 slunečných dnů v roce. Je největším městem severovýchodní oblasti ostrova, hlavním přístavem ostrova a městem s největším rozvojem podnikání a obchodu. Město bylo založeno v roce 1372 Janovany, kteří zde postavili pevnost. Za janovské nadvlády v roce 1452 se stalo hlavním městem ostrova a sídlem místní vlády. Korsičané dodnes na Bastii pohlížejí s despektem pro její kladný vztah k Janovanům. V roce 1811 přenesl Napoleon hlavní město do svého rodiště Ajaccia a Bastia začala upadat. Dynamický rozvoj následoval znovu po 2. světové válce.",
+        "obrazek":"bastia.jpg",
+        "odkaz":"https://cs.wikipedia.org/wiki/Bastia"
+    }
+]
