@@ -2,7 +2,7 @@
 $(function() {
 
     let mesta = [];
-    fetch('http://localhost:8080/api/mesta')
+    fetch('https://immense-spire-44318.herokuapp.com/api/mesta')
     .then(response => { return response.json() })
     .then(json => { mesta = json; })
     .catch(function (error) {
@@ -10,7 +10,7 @@ $(function() {
     });
 
     let pamatky = [];
-    fetch('http://localhost:8080/api/pamatky')
+    fetch('https://immense-spire-44318.herokuapp.com/api/pamatky')
     .then(response => { return response.json() })
     .then(json => { pamatky = json; })
     .catch(function (error) {
