@@ -1,2 +1,1 @@
-Přídány JSON soubory, odstraněny constanty
-Stránka běží na serveru
+Heroku odkaz: https://immense-spire-44318.herokuapp.com

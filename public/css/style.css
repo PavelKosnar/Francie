@@ -514,8 +514,10 @@ h3 {
 }
 
 h4 {
+    font-size: 60px !important;
     color: black;
     text-align: center;
+    margin-top: 5vh;
     font-size: 40px;
 }
 
@@ -765,6 +767,10 @@ svg {
         font-size: 12px;
     }
 
+    .zalozka h4 {
+        font-size: 45px !important;
+    }
+
     section p {
         font-size: 70%;
     }
@@ -831,6 +837,10 @@ svg {
 
     .zalozka p {
         font-size: 10px;
+    }
+
+    .zalozka h4 {
+        font-size: 40px !important;
     }
 
     .navbar-links ul li {
@@ -912,11 +922,6 @@ svg {
         margin: 18px 9%;
     }
 
-    .zalozka h4 {
-        margin-top: 10px;
-        font-size: 40px;
-    }
-
     .zalozka p {
         display: none;
     }
@@ -931,6 +936,11 @@ svg {
 }
 
 @media (max-width: 425px) {
+    .zalozka h4 {
+        font-size: 45px !important;
+        margin-top: 3vh;
+    }
+
     .navbar {
         height: 100px;
     }
@@ -992,6 +1002,10 @@ svg {
         font-size: 70px;
     }
 
+    .zalozka h4 {
+        font-size: 40px !important;
+    }
+
     .nadpis p {
         font-size: 10px;
     }
@@ -1031,11 +1045,6 @@ svg {
         font-size: 8px;
     }
 
-    .zalozka h4 {
-        margin-top: 15px;
-        font-size: 35px;
-    }
-
     .right h3 {
         font-size: 20px;
     }
@@ -1072,6 +1081,10 @@ svg {
 
     td, th {
         font-size: 11px;
+    }
+
+    .zalozka h4 {
+        font-size: 33px !important;
     }
 }
 
